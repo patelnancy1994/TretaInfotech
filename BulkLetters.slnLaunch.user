@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BulkLetters\\BulkLetters.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BulkLetterAPI\\BulkLetterAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

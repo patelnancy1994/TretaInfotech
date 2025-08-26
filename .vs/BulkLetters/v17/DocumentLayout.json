@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TretaInfotech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC157ABF-DCC0-4DAD-94C0-3A83D249E552}|BulkLetters\\BulkLetters.csproj|e:\\tretainfotech\\bulkletters\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC157ABF-DCC0-4DAD-94C0-3A83D249E552}|BulkLetters\\BulkLetters.csproj|solutionrelative:bulkletters\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC157ABF-DCC0-4DAD-94C0-3A83D249E552}|BulkLetters\\BulkLetters.csproj|e:\\tretainfotech\\bulkletters\\scripts\\customjs\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EC157ABF-DCC0-4DAD-94C0-3A83D249E552}|BulkLetters\\BulkLetters.csproj|solutionrelative:bulkletters\\scripts\\customjs\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\TretaInfotech\\BulkLetters\\Views\\Upload\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkLetters\\Views\\Upload\\Index.cshtml",
+              "ToolTip": "E:\\TretaInfotech\\BulkLetters\\Views\\Upload\\Index.cshtml",
+              "RelativeToolTip": "BulkLetters\\Views\\Upload\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T03:41:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.js",
+              "DocumentMoniker": "E:\\TretaInfotech\\BulkLetters\\Scripts\\CustomJS\\Index.js",
+              "RelativeDocumentMoniker": "BulkLetters\\Scripts\\CustomJS\\Index.js",
+              "ToolTip": "E:\\TretaInfotech\\BulkLetters\\Scripts\\CustomJS\\Index.js",
+              "RelativeToolTip": "BulkLetters\\Scripts\\CustomJS\\Index.js",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-26T03:41:26.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
